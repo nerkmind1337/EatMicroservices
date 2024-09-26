@@ -38,6 +38,60 @@ namespace EatMicroservices.Services.CouponApi.Controllers
             return _response;
         }
 
+
+        [HttpPost]
+        public ResponseDto Post([FromBody] CouponDto couponDto)
+        {
+            try
+            {
+                Coupon coupon = _mapper.Map<Coupon>(couponDto);
+                _db.Coupons.Add(coupon);
+                _db.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = ex.Message;
+            }
+            return _response;
+        }
+
+
+        [HttpPut]
+        public ResponseDto Put([FromBody] CouponDto couponDto)
+        {
+            try
+            {
+                Coupon coupon = _mapper.Map<Coupon>(couponDto);
+                _db.Coupons.Update(coupon);
+                _db.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = ex.Message;
+            }
+            return _response;
+        }
+
+        [HttpDelete]
+        public ResponseDto Delete(int id)
+        {
+            try
+            {
+                Coupon coupon = _db.Coupons.First(record => record.CouponId == id);
+                _db.Coupons.Remove(coupon);
+                _db.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = ex.Message;
+            }
+            return _response;
+        }
+
+
         [HttpGet]
         [Route("{id:int}")]
         public ResponseDto Get(int id)
@@ -45,6 +99,23 @@ namespace EatMicroservices.Services.CouponApi.Controllers
             try
             {
                 Coupon coupon = _db.Coupons.First(record => record.CouponId == id);
+                _response.Result = _mapper.Map<CouponDto>(coupon);
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = ex.Message;
+            }
+            return _response;
+        }
+
+        [HttpGet]
+        [Route("GetByCode/{code}")]
+        public ResponseDto Get(string code)
+        {
+            try
+            {
+                Coupon coupon = _db.Coupons.First(record => record.CouponCode.ToLower() == code.ToLower());
                 _response.Result = _mapper.Map<CouponDto>(coupon);
             }
             catch (Exception ex)
