@@ -3,48 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\eatmicroservices.services.couponapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\eatmicroservices.services.couponapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.services.couponapi\\migrations\\20240926145151_seedcoupontables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D08504-77EA-4D33-948C-4D667B4DD88C}|EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.csproj|solutionrelative:eatmicroservices.services.couponapi\\migrations\\20240926145151_seedcoupontables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\utils\\staticdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\utils\\staticdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\models\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\models\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|c:\\users\\booli\\source\\repos\\eatmicroservices\\eatmicroservices.web\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B654820E-CBF6-4AD1-A1B5-C01D6FE813ED}|EatMicroservices.Web\\EatMicroservices.Web.csproj|solutionrelative:eatmicroservices.web\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,141 +74,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CouponApiController.cs",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Controllers\\CouponApiController.cs",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\Controllers\\CouponApiController.cs",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Controllers\\CouponApiController.cs",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\Controllers\\CouponApiController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAcwD4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:56:31.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\appsettings.Development.json",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T14:38:59.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EatMicroservices.Services.CouponApi.http",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.http",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.http",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.http",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\EatMicroservices.Services.CouponApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-26T13:35:14.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\appsettings.json",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\appsettings.json",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T14:36:36.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Coupon.cs",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Models\\Coupon.cs",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\Models\\Coupon.cs",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Models\\Coupon.cs",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\Models\\Coupon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:07:25.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:00:24.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Program.cs",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\Program.cs",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Program.cs",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T13:36:30.527Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CouponDto.cs",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Models\\Dto\\CouponDto.cs",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\Models\\Dto\\CouponDto.cs",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Models\\Dto\\CouponDto.cs",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\Models\\Dto\\CouponDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T13:41:01.491Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EatMicroservices.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T18:11:38.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AutoMapperConfig.cs",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\AutoMapperConfig.cs",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\AutoMapperConfig.cs",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\AutoMapperConfig.cs",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\AutoMapperConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T15:18:58.743Z"
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EatMicroservices.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T18:11:28.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EatMicroservices.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T18:11:26.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Models\\Dto\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\Models\\Dto\\ResponseDto.cs",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Models\\Dto\\ResponseDto.cs",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\Models\\Dto\\ResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EatMicroservices.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T18:11:24.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EatMicroservices.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T18:11:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EatMicroservices.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T18:10:11.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\appsettings.json",
+              "RelativeToolTip": "EatMicroservices.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T17:47:42.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Program.cs",
+              "RelativeToolTip": "EatMicroservices.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T15:09:36.886Z"
+              "WhenOpened": "2024-09-26T17:47:19.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Service\\CouponService.cs",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Service\\CouponService.cs",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Service\\CouponService.cs",
+              "RelativeToolTip": "EatMicroservices.Web\\Service\\CouponService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:46:22.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "EatMicroservices.Web\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:42:02.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Service\\IService\\ICouponService.cs",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Service\\IService\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Service\\IService\\ICouponService.cs",
+              "RelativeToolTip": "EatMicroservices.Web\\Service\\IService\\ICouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:41:34.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "EatMicroservices.Web\\Service\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:24:26.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Service\\IService\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeToolTip": "EatMicroservices.Web\\Service\\IService\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:23:08.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "20240926145151_SeedCouponTables.cs",
-              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Migrations\\20240926145151_SeedCouponTables.cs",
-              "RelativeDocumentMoniker": "EatMicroservices.Services.CouponApi\\Migrations\\20240926145151_SeedCouponTables.cs",
-              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Services.CouponApi\\Migrations\\20240926145151_SeedCouponTables.cs",
-              "RelativeToolTip": "EatMicroservices.Services.CouponApi\\Migrations\\20240926145151_SeedCouponTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Title": "StaticDetails.cs",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Utils\\StaticDetails.cs",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Utils\\StaticDetails.cs",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Utils\\StaticDetails.cs",
+              "RelativeToolTip": "EatMicroservices.Web\\Utils\\StaticDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:51:51.784Z"
+              "WhenOpened": "2024-09-26T16:20:30.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Models\\Dto\\RequestDto.cs",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Models\\Dto\\RequestDto.cs",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Models\\Dto\\RequestDto.cs",
+              "RelativeToolTip": "EatMicroservices.Web\\Models\\Dto\\RequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:15:05.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "EatMicroservices.Web\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\booli\\source\\repos\\EatMicroservices\\EatMicroservices.Web\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "EatMicroservices.Web\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:12:38.327Z",
+              "EditorCaption": ""
             }
           ]
         }
