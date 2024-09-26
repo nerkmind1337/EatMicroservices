@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3FpapQ0Q49iTxANtT8TM4dtBW17QZVFDMhMM8QcXaQs=",
+  "Source": "EatMicroservices.Services.CouponApi",
+  "BasePath": "_content/EatMicroservices.Services.CouponApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

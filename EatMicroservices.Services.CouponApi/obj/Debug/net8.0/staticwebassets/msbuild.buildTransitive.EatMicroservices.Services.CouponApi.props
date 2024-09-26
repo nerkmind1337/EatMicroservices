@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EatMicroservices.Services.CouponApi.props" />
+</Project>

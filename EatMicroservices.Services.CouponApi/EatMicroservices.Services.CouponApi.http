@@ -1,0 +1,6 @@
+@EatMicroservices.Services.CouponApi_HostAddress = http://localhost:5270
+
+GET {{EatMicroservices.Services.CouponApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

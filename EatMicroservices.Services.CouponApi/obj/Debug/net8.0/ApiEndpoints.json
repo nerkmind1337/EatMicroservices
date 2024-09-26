@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "EatMicroservices.Services.CouponApi.Controllers.CouponApiController",
+    "Method": "Get",
+    "RelativePath": "api/CouponApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "EatMicroservices.Services.CouponApi.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EatMicroservices.Services.CouponApi.Controllers.CouponApiController",
+    "Method": "Get",
+    "RelativePath": "api/CouponApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EatMicroservices.Services.CouponApi.Models.Dto.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
